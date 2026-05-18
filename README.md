@@ -5,7 +5,6 @@ This repository contains all 5 Rush assignments implemented in Python using simp
 Each assignment is organized in its own folder and contains:
 
 * `rush.py` → Contains the `rush(x, y)` function
-* `main.py` → Used for testing the program from the terminal
 
 ---
 
@@ -16,23 +15,23 @@ python-rush-assignments/
 │
 ├── rush-1-1/
 │   ├── rush.py
-│   └── main.py
+│   
 │
 ├── rush-1-2/
 │   ├── rush.py
-│   └── main.py
+│   
 │
 ├── rush-1-3/
 │   ├── rush.py
-│   └── main.py
+│   
 │
 ├── rush-1-4/
 │   ├── rush.py
-│   └── main.py
+│   
 │
 ├── rush-1-5/
 │   ├── rush.py
-│   └── main.py
+│   =
 ```
 
 ---
