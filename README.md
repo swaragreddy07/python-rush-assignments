@@ -31,7 +31,7 @@ python-rush-assignments/
 │
 ├── rush-1-5/
 │   ├── rush.py
-│   =
+│   
 ```
 
 ---
